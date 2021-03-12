@@ -68,7 +68,7 @@ https://nodejs.org/en/download/
     --Open terminal--
 
     #Clone repo from github
-    git clone https://github.com/joaopealves/moveit.git
+    git clone https://github.com/filipezaidan/moveit-next
 
     #Entry in Rocketpay folder
     cd moveit
